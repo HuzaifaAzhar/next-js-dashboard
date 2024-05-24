@@ -3,7 +3,7 @@
 const users = [
   {
     id: '410544b2-4001-4271-9855-fec4b6a6442a',
-    name: 'User',
+    name: 'Huzaifa Azhar',
     email: 'user@nextmail.com',
     password: '123456',
   },
@@ -12,38 +12,38 @@ const users = [
 const customers = [
   {
     id: '3958dc9e-712f-4377-85e9-fec4b6a6442a',
-    name: 'Delba de Oliveira',
-    email: 'delba@oliveira.com',
+    name: 'Huzaifa Azhar',
+    email: '210982@students.au.edu.pk',
     image_url: '/customers/delba-de-oliveira.png',
   },
   {
     id: '3958dc9e-742f-4377-85e9-fec4b6a6442a',
-    name: 'Lee Robinson',
-    email: 'lee@robinson.com',
+    name: 'Asim Munir',
+    email: 'Asim@Munir.com',
     image_url: '/customers/lee-robinson.png',
   },
   {
     id: '3958dc9e-737f-4377-85e9-fec4b6a6442a',
-    name: 'Hector Simpson',
-    email: 'hector@simpson.com',
+    name: 'Imran Khan',
+    email: 'Imran@Khan.com',
     image_url: '/customers/hector-simpson.png',
   },
   {
     id: '50ca3e18-62cd-11ee-8c99-0242ac120002',
-    name: 'Steven Tey',
-    email: 'steven@tey.com',
+    name: 'Sheikh Rasheed',
+    email: 'Sheikh@Rasheed.com',
     image_url: '/customers/steven-tey.png',
   },
   {
     id: '3958dc9e-787f-4377-85e9-fec4b6a6442a',
-    name: 'Steph Dietz',
-    email: 'steph@dietz.com',
+    name: 'Osama Bin Laden',
+    email: 'osama@newyork.com',
     image_url: '/customers/steph-dietz.png',
   },
   {
     id: '76d65c26-f784-44a2-ac19-586678f7c2f2',
-    name: 'Michael Novotny',
-    email: 'michael@novotny.com',
+    name: 'Ghulam Rasool',
+    email: 'ghulam@rasool.com',
     image_url: '/customers/michael-novotny.png',
   },
   {
@@ -54,20 +54,20 @@ const customers = [
   },
   {
     id: '126eed9c-c90c-4ef6-a4a8-fcf7408d3c66',
-    name: 'Emil Kowalski',
-    email: 'emil@kowalski.com',
+    name: 'Ijaz Gujjar',
+    email: 'ijaz@gujjar.com',
     image_url: '/customers/emil-kowalski.png',
   },
   {
     id: 'CC27C14A-0ACF-4F4A-A6C9-D45682C144B9',
-    name: 'Amy Burns',
-    email: 'amy@burns.com',
+    name: 'Tarar Company',
+    email: 'tarar@co.com',
     image_url: '/customers/amy-burns.png',
   },
   {
     id: '13D07535-C59E-4157-A011-F8D2EF4E0CBB',
-    name: 'Balazs Orban',
-    email: 'balazs@orban.com',
+    name: 'test user',
+    email: 'test@user.com',
     image_url: '/customers/balazs-orban.png',
   },
 ];
